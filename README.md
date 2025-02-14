@@ -1,3 +1,3 @@
 # dogeisstinky
 
-I created this simple webiste because as the domain name sugggests, doge is indeed stinky. 
+I created this simple website because as the domain name suggests, doge is indeed stinky. 
